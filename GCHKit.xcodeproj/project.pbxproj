@@ -70,10 +70,18 @@
 				50FE1C2B2200514800669887 /* LaunchScreen.storyboard */,
 				50FE1C2E2200514800669887 /* Info.plist */,
 				50FE1C2F2200514800669887 /* main.m */,
+				50FE1C3922006F1B00669887 /* Classes */,
+			);
+			path = GCHKit;
+			sourceTree = "<group>";
+		};
+		50FE1C3922006F1B00669887 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
 				50FE1C362200515B00669887 /* Person.h */,
 				50FE1C372200515B00669887 /* Person.m */,
 			);
-			path = GCHKit;
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

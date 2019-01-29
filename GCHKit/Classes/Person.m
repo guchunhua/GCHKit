@@ -11,7 +11,7 @@
 @implementation Person
 
 + (void)eat {
-    NSLog(@"吃饭");
+    NSLog(@"吃饭--V2.0.0");
 }
 
 @end
